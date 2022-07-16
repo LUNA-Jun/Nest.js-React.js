@@ -9,3 +9,4 @@
   - 뷰단이 아닌 postman으로 서버단으로 삭제 url 사용할시 삭제 가능
   - postman에서 수정 url에서 대해서는 문제는 없으나 DB에서 수정이 안됨
   
+https://user-images.githubusercontent.com/86825155/179336738-7457728a-cd36-43e2-84d0-2f3efdd4d3e7.mp4
